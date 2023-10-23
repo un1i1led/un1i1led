@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Gilberto Sanchez</h1>
+<h1 align="center">Hi 👋, I'm Gilberto </h1>
 <h3 align="center">A passionate Software Engineering student from Mexico</h3>
 
 - 🔭 I’m currently working on **a fullstack blogging app**

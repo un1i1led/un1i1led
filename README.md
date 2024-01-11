@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gilberto </h1>
 <h3 align="center">A passionate Software Engineering student from Mexico</h3>
 
-- 🔭 I’m currently working on **a fullstack blogging app**
+- 🔭 I’m currently working on **a fullstack e-commerce web app**
 
 - 🌱 I’m currently learning **Express and REST APIs**
 
